@@ -1,18 +1,13 @@
 # crAPI-Hardened
 
-Welcome to **crAPI-Hardened**, a community-driven API security hardening project based on the intentionally vulnerable [OWASP crAPI](https://github.com/OWASP/crAPI).
+Welcome to **crAPI-Hardened**! This is a hardened fork of the intentionally vulnerable OWASP crAPI.
 
-## 🛡️ Project Vision
-The goal of this project is to gradually transform the intentionally vulnerable crAPI application into a hardened version through incremental security fixes, secure coding improvements, community review, and responsible vulnerability disclosure.
+Vulnerabilities will be gradually fixed over time. Community testing and responsible disclosure are highly encouraged.
 
-We invite security researchers to test the application, discover vulnerabilities, and responsibly disclose them.
-
-## 📚 Security Program Resources
-- **[Security Policy & Responsible Disclosure](SECURITY.md)**: How to report vulnerabilities.
-- **[Hall of Fame](HALL_OF_FAME.md)**: Recognition for researchers who responsibly disclose issues.
-- **[Contributing Guidelines](CONTRIBUTING.md)**: How to contribute documentation and participate.
-- **[Changelog](CHANGELOG.md)**: Track the hardening progress and releases.
-- **[Project Roadmap](docs/ROADMAP.md)**: Future plans for hardening the API.
+## 🛡️ Security Resources
+- **[SECURITY.md](SECURITY.md)**: How to report a vulnerability.
+- **[HALL_OF_FAME.md](HALL_OF_FAME.md)**: Recognition for security researchers.
+- **[Releases](https://github.com/OWASP/crAPI/releases)**: View the latest fixes and versions.
 
 ---
 
