@@ -6,7 +6,7 @@ This is a community-driven hardening fork of the intentionally vulnerable OWASP 
 
 ## Reporting a Vulnerability
 
-If you discover a vulnerability, please report it to us by creating a new GitHub Issue using the **Vulnerability Report** template.
+If you discover a vulnerability, please report it to us by creating a new GitHub Issue using the [Vulnerability Report](./.github/ISSUE_TEMPLATE/vulnerability_report.md) template.
 
 Please ensure your report includes clear steps to reproduce the issue. 
 
