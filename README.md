@@ -1,4 +1,18 @@
-# crAPI
+# crAPI-Hardened
+
+## Project Goal
+
+This fork aims to gradually patch and harden vulnerable components of crAPI while preserving the original functionality.
+
+Community members are encouraged to review the code, test the application, and responsibly report any remaining security issues.
+
+## Current Status
+
+- [ ] BOLA
+- [ ] Broken Authentication
+- [ ] Mass Assignment
+- [ ] SSRF
+- [ ] XXE
 
 **c**ompletely **r**idiculous **API** (crAPI) will help you to understand the
 ten most critical API security risks. crAPI is vulnerable by design, but you'll
